@@ -1,1 +1,2 @@
-# telegram-ai-bot
+# Telegram AI Bot
+Basic starter project.
